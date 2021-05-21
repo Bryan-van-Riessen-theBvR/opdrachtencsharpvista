@@ -1,0 +1,13 @@
+C:\Users\Bryan\Desktop\SchoolC#\opdrachtvars\opdrachtvars\obj\Debug\netcoreapp3.1\opdrachtvars.csprojAssemblyReference.cache
+C:\Users\Bryan\Desktop\SchoolC#\opdrachtvars\opdrachtvars\obj\Debug\netcoreapp3.1\opdrachtvars.AssemblyInfoInputs.cache
+C:\Users\Bryan\Desktop\SchoolC#\opdrachtvars\opdrachtvars\obj\Debug\netcoreapp3.1\opdrachtvars.AssemblyInfo.cs
+C:\Users\Bryan\Desktop\SchoolC#\opdrachtvars\opdrachtvars\obj\Debug\netcoreapp3.1\opdrachtvars.csproj.CoreCompileInputs.cache
+C:\Users\Bryan\Desktop\SchoolC#\opdrachtvars\opdrachtvars\bin\Debug\netcoreapp3.1\opdrachtvars.exe
+C:\Users\Bryan\Desktop\SchoolC#\opdrachtvars\opdrachtvars\bin\Debug\netcoreapp3.1\opdrachtvars.deps.json
+C:\Users\Bryan\Desktop\SchoolC#\opdrachtvars\opdrachtvars\bin\Debug\netcoreapp3.1\opdrachtvars.runtimeconfig.json
+C:\Users\Bryan\Desktop\SchoolC#\opdrachtvars\opdrachtvars\bin\Debug\netcoreapp3.1\opdrachtvars.runtimeconfig.dev.json
+C:\Users\Bryan\Desktop\SchoolC#\opdrachtvars\opdrachtvars\bin\Debug\netcoreapp3.1\opdrachtvars.dll
+C:\Users\Bryan\Desktop\SchoolC#\opdrachtvars\opdrachtvars\bin\Debug\netcoreapp3.1\opdrachtvars.pdb
+C:\Users\Bryan\Desktop\SchoolC#\opdrachtvars\opdrachtvars\obj\Debug\netcoreapp3.1\opdrachtvars.dll
+C:\Users\Bryan\Desktop\SchoolC#\opdrachtvars\opdrachtvars\obj\Debug\netcoreapp3.1\opdrachtvars.pdb
+C:\Users\Bryan\Desktop\SchoolC#\opdrachtvars\opdrachtvars\obj\Debug\netcoreapp3.1\opdrachtvars.genruntimeconfig.cache

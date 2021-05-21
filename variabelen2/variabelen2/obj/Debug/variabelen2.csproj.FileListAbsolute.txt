@@ -1,0 +1,10 @@
+C:\Users\Bryan\Desktop\SchoolC#\variabelen2\variabelen2\obj\Debug\variabelen2.csprojAssemblyReference.cache
+C:\Users\Bryan\Desktop\SchoolC#\variabelen2\variabelen2\obj\Debug\variabelen2.Form1.resources
+C:\Users\Bryan\Desktop\SchoolC#\variabelen2\variabelen2\obj\Debug\variabelen2.Properties.Resources.resources
+C:\Users\Bryan\Desktop\SchoolC#\variabelen2\variabelen2\obj\Debug\variabelen2.csproj.GenerateResource.cache
+C:\Users\Bryan\Desktop\SchoolC#\variabelen2\variabelen2\obj\Debug\variabelen2.csproj.CoreCompileInputs.cache
+C:\Users\Bryan\Desktop\SchoolC#\variabelen2\variabelen2\bin\Debug\variabelen2.exe.config
+C:\Users\Bryan\Desktop\SchoolC#\variabelen2\variabelen2\bin\Debug\variabelen2.exe
+C:\Users\Bryan\Desktop\SchoolC#\variabelen2\variabelen2\bin\Debug\variabelen2.pdb
+C:\Users\Bryan\Desktop\SchoolC#\variabelen2\variabelen2\obj\Debug\variabelen2.exe
+C:\Users\Bryan\Desktop\SchoolC#\variabelen2\variabelen2\obj\Debug\variabelen2.pdb
